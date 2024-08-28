@@ -1,0 +1,4 @@
+res://sceanes/main.tscn
+res://sprites/new_tile_set.tres
+res://scripts/dungeon_master.gd
+res://scripts/Behavior.gd
